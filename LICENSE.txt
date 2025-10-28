@@ -1,5 +1,5 @@
 MIT License
 
-Copyright (c) 2025 Vanguard Security Labs
+Copyright (c) 2025
 
-Permission is hereby granted...
+Permission is hereby granted to use the tools for ethical purpose only.
